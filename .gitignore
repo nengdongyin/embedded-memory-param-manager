@@ -1,0 +1,13 @@
+build/
+build_ninja/
+build_test/
+.vscode/
+*.vgdbsettings*
+*.vcxproj*
+*.user
+*.o
+*.obj
+*.dep
+*.d
+*.exe
+*.a
